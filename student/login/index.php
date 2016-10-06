@@ -2,7 +2,7 @@
 <html >
   <head>
     <meta charset="tis-620">
-    <title>เข้าสู่ระบบ</title>
+    <title>๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝะบ๏ฟฝ</title>
     <link rel="stylesheet" href="css/reset.css">
 	<link rel="stylesheet" href="css/style.css">
 
@@ -10,27 +10,27 @@
 
   <body>
 
-    
+
 <div class="container">
   <div class="info">
-    
+
   </div>
 </div>
 <div class="form">
   <div class="thumbnail"><img src="../images/logo.png" style="margin-top: -18px;"></div>
-  
+
   <form class="register-form">
-    <input type="text" placeholder="ชื่อผู้ใช้"/>
-    <input type="password" placeholder="รหัสผ่าน"/>
-    <input type="text" placeholder="ตอบคำถาม 59-99 = ?"/>
-    <button>เข้าสู่ระบบผู้ดูแล</button>
-    <p class="message">เข้าใช้งานสำหรับนักเรียน <a href="#">เข้าสู่ระบบผู้ดูแล</a></p>
+    <input type="text" placeholder="๏ฟฝ๏ฟฝ๏ฟฝอผ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ"/>
+    <input type="password" placeholder="๏ฟฝ๏ฟฝ๏ฟฝสผ๏ฟฝาน"/>
+    <input type="text" placeholder="๏ฟฝอบ๏ฟฝำถ๏ฟฝ๏ฟฝ 59-99 = ?"/>
+    <button>๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝะบ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ</button>
+    <p class="message">๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝาน๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝับ๏ฟฝัก๏ฟฝ๏ฟฝ๏ฟฝยน <a href="#">๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝะบ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ</a></p>
   </form>
   <form class="login-form" method="POST" action="../login.php" autocomplete="off">
-    <input type="text" name="username" placeholder="รหัสประจำตัวนักเรียน"/>
-    <input type="password" name="password" placeholder="รหัสผ่าน"/>
-    <button>เข้าสู่ระบบ</button>
-    <p class="message">สำหรับผู้ดูแลระบบ <a href="#">เข้าสู่ระบบ</a></p>
+    <input type="text" name="username" placeholder="๏ฟฝ๏ฟฝ๏ฟฝสป๏ฟฝะจำต๏ฟฝวนัก๏ฟฝ๏ฟฝ๏ฟฝยน"/>
+    <input type="password" name="password" placeholder="๏ฟฝ๏ฟฝ๏ฟฝสผ๏ฟฝาน"/>
+    <button>๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝะบ๏ฟฝ</button>
+    <p class="message">๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝับ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝะบ๏ฟฝ <a href="#">๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝะบ๏ฟฝ</a></p>
   </form>
 </div>
 <video id="video" autoplay="autoplay" loop="loop" poster="polina.jpg">
@@ -40,7 +40,7 @@
 
         <script src="js/index.js"></script>
 
-    
-    
+
+
   </body>
 </html>

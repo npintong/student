@@ -1,0 +1,91 @@
+.teacher-sign {
+	text-align: center;
+	width: 300px;
+    padding: 10px;
+	position: relative;
+    float: right;
+}
+.show-printer{
+	position: fixed;
+	bottom: 400px;
+	margin-left: 0px;
+	width: 219px;
+	height: 72px;
+	
+	background-image: url('../images/left.png');
+}
+
+.navbar {
+	margin-bottom: 0;
+	border-radius: 0;
+	height: 80px;
+	width: auto;
+	background-image: url("../images/bg.png");
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+}
+.navbar>.container .navbar-brand, .navbar>.container-fluid .navbar-brand {
+    margin-left: -15px;
+    margin-top: 10px;
+}
+.navbar-nav {
+		float: left;
+		margin: 0;
+		margin-top: 12px;
+		font-size: 14px;
+}
+
+
+footer {
+	background-color: #f9f5f4;
+	padding: 30px;
+	position:fixed;
+	height:100px;
+	bottom:0px;
+	left:0px;
+	right:0px;
+	margin-bottom:0px;
+}
+
+.modal-header {
+		color: #FFF;
+    padding:20px 15px;
+    border-bottom:1px solid #eee;
+    background-color: #0480be;
+    -webkit-border-top-left-radius: 5px;
+    -webkit-border-top-right-radius: 5px;
+    -moz-border-radius-topleft: 5px;
+    -moz-border-radius-topright: 5px;
+     border-top-left-radius: 5px;
+     border-top-right-radius: 5px;
+ }
+
+ .modal-footer {
+     padding:15px 15px;
+     border-bottom:1px solid #eee;
+     background-color: #dee2de;
+     -webkit-border-bottom-left-radius: 5px;
+     -webkit-border-bottom-right-radius: 5px;
+     -moz-border-radius-topleft: 5px;
+     -moz-border-radius-topright: 5px;
+      border-bottom-left-radius: 5px;
+      border-bottom-right-radius: 5px;
+  }
+	.badge-warning {
+	background-color: #d58512;
+	}
+
+	.badge-success {
+	background-color: #398439;
+	}
+
+	.badge-info {
+	background-color: #269abc;
+	}
+
+	.badge-inverse {
+	background-color: #333333;
+	}
+	.badge-danger{
+		background-color: #ce2e0e;
+	}

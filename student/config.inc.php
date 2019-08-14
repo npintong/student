@@ -18,4 +18,5 @@ if(!$conn){
   die("Can not connect to database server.");
 }
 
+echo "demo";
 ?>
